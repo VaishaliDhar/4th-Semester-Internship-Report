@@ -109,13 +109,13 @@ Key learning outcomes included:
 
 The complete internship report containing the detailed study, project information, technical observations, and internship experience is available below.
 
-**[📥 View Complete Internship Report](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+**[📥 View Complete Internship Report](https://drive.google.com/file/d/1ddEeotLC7gZjedZ5siVVdErFx-BJ9R3t/view?usp=drive_link)**
 
 ---
 
 ## 📜 Certificate
 
-**[📜 View Internship Certificate](YOUR_GOOGLE_DRIVE_CERTIFICATE_LINK_HERE)**
+**[📜 View Internship Certificate](https://drive.google.com/file/d/1YfmZ8_kpgvNWh4sdHidyO4x0lftLA_2J/view?usp=sharing)**
 
 ---
 
